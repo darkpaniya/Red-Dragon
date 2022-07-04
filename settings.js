@@ -19,7 +19,7 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is ☬Queen༒Desi࿐🔥
+global.alivemsg = `My name is ☬DARK༒PANIYA࿐🔥
 My Creator is Rusira Dewmith😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94769898606'] //Owner number in aive msg
@@ -27,14 +27,14 @@ global.premium = ['+94769898606'] //Owner Number info
 global.ownernomer = '+94769898606' //Owner Number <<<
 
 global.ownername = '😎Dark Paniya' //Owner Name
-global.botname = ' ☬Queen༒Desi࿐' //Bot Name
+global.botname = ' ☬DARK༒PANIYA࿐' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://www.youtube.com/channel/UCxJg9wdYzbHSbPdHkZJQeeg/featured' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬Queen༒Desi࿐' //Bot Pacage Name
+global.packname = '☬DARK༒PANIYA࿐' //Bot Pacage Name
 global.author = '😎Rusira Dewmith' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
